@@ -53,7 +53,7 @@ From attendance tracking to assignment submissions and performance analytics, it
 ---
 
 ### 5️⃣ Performance Analytics
-**Get clear CGPA insights and visualized academic reports**
+**Get clear CGPA Insights and visualized academic reports**
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5cb6f4a6-844a-4720-8c81-f59282a0914b" width="300" />
@@ -93,14 +93,14 @@ From attendance tracking to assignment submissions and performance analytics, it
 This platform transforms traditional academic workflows into a smart, digital ecosystem.  
 By automating key academic processes, it:
 
-✅ Reduces administrative overhead  
-✅ Enhances student engagement  
-✅ Improves academic transparency  
-✅ Enables data-driven decisions  
+1. Reduces administrative overhead  
+2. Enhances student engagement  
+3. Improves academic transparency  
+4. Enables data-driven decisions  
 
 ---
 
-## 🧾 Project Acknowledgment
+## Project Acknowledgment
 This project has been developed solely as a frontend implementation using React Native (Expo).
 As a frontend developer, my primary focus was on building the user interface, navigation flow, and interactive experience of the application.
 
@@ -133,6 +133,7 @@ Backend integration (Node.js, MySQL, APIs) has not been implemented, as the proj
 
 **Pradeep T T**  
 Frontend Developer - 
+
 🔗 [GitHub Profile](https://github.com/pradeep686)
 🔗 [Lindlin Profile](https://www.linkedin.com/in/pradeepbit)
 

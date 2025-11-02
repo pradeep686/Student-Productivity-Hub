@@ -100,6 +100,23 @@ By automating key academic processes, it:
 
 ---
 
+## 🧾 Project Acknowledgment
+This project has been developed solely as a frontend implementation using React Native (Expo).
+As a frontend developer, my primary focus was on building the user interface, navigation flow, and interactive experience of the application.
+
+The project currently showcases the complete UI/UX design and client-side functionality with mock data for demonstration purposes.
+Backend integration (Node.js, MySQL, APIs) has not been implemented, as the project scope emphasizes frontend development skills.
+
+| Area | Status | Description |
+|------|---------|-------------|
+| Frontend Development | Completed | Built using React Native (Expo) |
+| Screens & Navigation | Completed | Includes full user flow with navigation |
+| Mock Data Integration | Completed | Uses sample data for demonstration |
+| UI Components & Styling | Completed | Consistent and modern design system |
+| User Interactions | Completed | All essential frontend logic implemented |
+
+---
+
 ##  Tech Stack
 
 | Layer | Technology |
